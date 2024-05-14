@@ -76,24 +76,4 @@ Files Description
 6. Main.py: file to host Flask API
 7. Requirements.txt: all the required libraries
 8. Uwsgi.ini: uWSGI configuration file
-Project Takeaways
-1. MLOps Architecture
-2. Google Cloud Platform(GCP) based MLops architecture
-3. Understanding various model files required for MLops
-4. Understanding various components of GCP
-5. How to create a cloud source repository in CGP and its structure
-6. How to clone the git repository with the source repository
-7. How to commit changes in the source repository
-8. How to create a trigger fire repository
-9. Flask deployment
-10.Basics of uWSGI
-11. How to create a uWSGI configuration file
-12.Building Docker image
-13.Cloud build
-14.How to use cloud shell editor
-15.Kubernetes architecture
-16.Understanding files required for Kubernetes
-17.Pub/Sub and creating a topic in it
-18.Cloud function
-19.How to trigger cloud function
-20.Model deployment using Kubernetes
+
